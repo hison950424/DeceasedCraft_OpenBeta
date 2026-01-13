@@ -1,0 +1,34 @@
+{
+  "creativetab.item_scrapper": "Desarmador de Objetos",
+
+  "block.item_scrapper.scrapper_block": "Mesa de Desarme de Objetos",
+
+  "item.item_scrapper.scrapping_hammer": "Martillo de Desarme",
+
+  "key.item_scrapper.place_item": "Colocar Objeto en Desarmador",
+  "key.categories.item_scrapper": "Desarmador de Objetos",
+
+  "tooltip.item_scrapper.scrappable": "⚒ Desarmable",
+  "tooltip.item_scrapper.required_hits": "Golpes Requeridos: %s",
+  "tooltip.item_scrapper.explosion_chance": "⚠ Probabilidad de Explosión: %s%%",
+  "tooltip.item_scrapper.durability_multiplier": "↔ Usa Multiplicador de Durabilidad",
+  "tooltip.item_scrapper.return_amount": "Retorno: %s%% - %s%%",
+
+  "item_scrapper.config.title": "Configuración del Desarmador de Objetos",
+  "item_scrapper.config.max_input_items": "Máx. Objetos de Entrada Mostrados: ",
+  "item_scrapper.config.max_output_items": "Máx. Objetos de Salida Mostrados: ",
+  "item_scrapper.config.show_scrappable": "Mostrar Indicador de Desarmador",
+  "item_scrapper.config.show_hits": "Mostrar Golpes Requeridos",
+  "item_scrapper.config.show_return": "Mostrar Cantidad de Retorno",
+  "item_scrapper.config.show_explosion": "Mostrar Probabilidad de Explosión",
+  "item_scrapper.config.show_durability": "Mostrar Info de Durabilidad",
+
+  "jei.item_scrapper.scrapping": "Desarme de Objetos",
+  "jei.item_scrapper.category.scrapping": "Desarme de Objetos",
+  "jei.item_scrapper.recipe.hits_required": "Golpes Requeridos: %s",
+  "jei.item_scrapper.recipe.return_range": "Retorno: %s-%s%%",
+  "jei.item_scrapper.recipe.explosion_chance": "Riesgo de Explosión: %s%%",
+  "jei.item_scrapper.recipe.durability_multiplier": "La durabilidad afecta la salida",
+  "jei.item_scrapper.tooltip.uncertain_output": "La salida real puede variar",
+  "jei.item_scrapper.scrappable.tooltip": "Objetos que pueden ser desarmados"
+}

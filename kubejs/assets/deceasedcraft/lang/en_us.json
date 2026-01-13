@@ -808,7 +808,7 @@
   "quest.guide.scrapping.title": "Recycling Items",
   "quest.guide.scrapping.subtitle": "*Anvil Break Noises*",
   "quest.guide.scrapping.subtitle_2": "You've got the scraps... now to find a cave.",
-  "quest.guide.scrapping.desc_1": "Items with the \u00a76\"Scrappable\"\u00a7r tooltip can be recycled at a \u00a7bscrapping table\u00a7r.",
+  "quest.guide.scrapping.desc_1": "Items with the \u00a76\"Scrappable\"\u00a7r tooltip can be recycled at a \u00a7bScrapping Table\u00a7r.",
   "quest.guide.scrapping.desc_2": "Scrapped items will return \u00a7630%%~70%%\u00a7r of the items used to craft them.",
   "quest.guide.scrapping.desc_3": "To scrap an item, place a scrappable item on the table with \u00a76[F]\u00a7r, then \u00a76left click\u00a7r your scrapping hammer while looking at the item.",
   "quest.guide.tutorial": "The First Days",

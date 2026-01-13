@@ -1,0 +1,7 @@
+{
+  "module.securitycraft.reinforced_dispenser.whitelist_module.description": "Añadir un módulo de lista de permitidos a un dispensador reforzado permitirá a los jugadores de dicha lista interactuar con el dispensador reforzado. Además, las tolvas reforzadas propiedad de los jugadores en la lista de permitidos podrán extraer objetos del dispensador.",
+  "block.securitycraft.secret_bamboo_sign": "Cartel de bambú secreto",
+  "block.securitycraft.secret_cherry_sign": "Cartel de cerezo secreto",
+  "item.securitycraft.bamboo_security_sea_raft": "Balsa de seguridad de bambú",
+  "gui.securitycraft:secure_redstone_interface.receive_inverted_power.tooltip.false": "La señal de redstone emitida es igual a la que el receptor reciba."
+}
